@@ -1,0 +1,23 @@
+#first1
+{
+	margin :auto;
+	width : 700px;
+}
+#second2
+{
+	margin : auto;
+	width: 700px;
+	text-align: center;
+}
+
+body
+{
+	background-color: #e3e3e3;
+	font-family: sans-serif;
+}
+
+blockquote
+{
+	border : 1px solid white;
+	text-align: center;
+}
